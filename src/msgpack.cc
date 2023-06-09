@@ -403,6 +403,7 @@ NAN_MODULE_INIT(init)
 // NODE_MODULE(msgpackBinding, init);
 // fix: make the module context-aware that it needs to reolace NODE_MODULE
 // issue: https://github.com/nodejs/node/issues/21783#issuecomment-429637117
+// https://github.com/msgpack/msgpack-node/issues/60
 NODE_MODULE_INIT()
 {
     init(exports);
