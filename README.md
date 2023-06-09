@@ -37,7 +37,7 @@ NODE_MODULE_INIT()
 }
 ```
 
-thanks 
+thanks for all help, [Stevie](https://stackoverflow.com/users/473338/stevie), [fathyb](https://github.com/fathyb), and brother Tao
 
 #### addition
 
